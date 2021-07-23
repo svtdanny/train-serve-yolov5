@@ -18,7 +18,8 @@ Test machine config:
 
 Results:
 
-
-Object_Detection.ipynb [MS COCO -> YOLO labels, transfer learning, accelerating, converting]
-Online_validation.ipynb [online metrics]
+![results_table](https://user-images.githubusercontent.com/66482706/126733557-fa2dd7fb-0c31-4812-baf9-ff8a1f602b06.png)
+  
+Object_Detection.ipynb [MS COCO -> YOLO labels, transfer learning, accelerating, converting]  
+Online_validation.ipynb [online metrics]  
 
